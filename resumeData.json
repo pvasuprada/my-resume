@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Vasuprada",
+    "occupation": "UI Developer",
+    "description": "passionate User Interface Developer with skills in Geographical Information Systems (GIS). I worked highly using Open Source Software's. Have developed Responsive UI for Websites, Android applications including Cross Platform Applications. Proficient in Full Application Development Lifecycle.",
+    "image": "profilepic.jpg",
+    "bio": "Inspired to Learn, Determine to Teach",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pvasuprada@gmail.com",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Visakhapatnam",
+      "state": " Andhra Pradesh",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "VasupradaResume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vasuprada.pottumuttu",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vasuprada-pottumuttu/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/vasuprada_pottumuttu",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/pvasuprada",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Andhra University",
+        "degree": "Bachelors in Geo-Infomatics",
+        "graduated": "April 2019",
+        "description": "Developed Location based Applications. Have got Hands on in Web GIS and UI Development."
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "UI Developer ",
+        "years": "July 2019 - Present",
+        "description": "Technologies Worked-  HTML, CSS, Bootstrap, Material Design, React JS, Java Springboot API's, Geoserver, PostgreSQL, Oracle, GIS, Keycloak, Azure. VSTS.Implemented reusable component structured code.Peer reviewed code to adhere coding standards. Operated with end-to-end ownership in complete phase, handling 2 Use cases. Worked as a Project Lead and Manager for a Use Case for a span of 3 months and delivered with high CSS 92%. Participated in complete development lifecycle - requirements analysis, design, coding, debugging, bug fixing and CI/CD configuration.",
+        "description2":"Delivered code in time with zero issues in all Security Audits. Reduced work efforts of team by developing reusable components.        Received 5/5 First Anniversary Rating.        Facilitated meetings and presentation with Clients translating business       requirements to designs.       Have been a mentor of 20+ Knowledge Transfer sessions, Assisting in GIS and       Open Source Libraries.       Continual Improvement by working with extended teams and time      management."
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "85"
+      },
+      {
+        "name": "Web GIS",
+        "level": "85"
+      },
+      {
+        "name": "React JS",
+        "level": "80"
+      },
+      {
+        "name": "GIS",
+        "level": "80"
+      },
+      {
+        "name": "SQL/PSQL",
+        "level": "50"
+      },
+      {
+        "name": "Java",
+        "level": "65"
+      },
+      {
+        "name": "Node JS",
+        "level": "70"
+      },
+      {
+        "name": "MS Office",
+        "level": "80"
+      },
+      {
+        "name": "Tableau",
+        "level": "60"
+      }
+    ],
+    "skills2": [
+      {
+        "name": "REST API",
+        "level": "85"
+      },
+      {
+        "name": "Azure",
+        "level": "85"
+      },
+      {
+        "name": "Photoshop",
+        "level": "80"
+      },
+      {
+        "name": "Express JS",
+        "level": "80"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "5_po.png",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "6_vr.png",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "7_ya.png",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "1_grouped.png",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "2_grouped.png",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "3_grouped.png",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "4_or.png",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "8_vp.png",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "9_vp.png" 
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Best Team",
+        "user": "TCS"
+      },
+      {
+        "text": "Best Volunteer of 2020-2021",
+        "user": "U and I"
+      },
+      {
+        "text": "5/5 FAV Rating",
+        "user": "TCS"
+      },
+      {
+        "text": "Best Poster",
+        "user": "ESRI"
+      }
+    ]
+  }
+}
