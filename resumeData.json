@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Vasuprada",
-    "occupation": "UI Developer",
-    "description": "passionate User Interface Developer with skills in Geographical Information Systems (GIS). I worked highly using Open Source Software's. Have developed Responsive UI for Websites, Android applications including Cross Platform Applications. Proficient in Full Application Development Lifecycle.",
+    "occupation": "Software Development Engineer",
+    "description": "Software Engineer with around 4.5 years work experience building responsive web applications, single page applications.  Proficient in Full Application Software Development Lifecycle with good knowledge in UI/UX, Backend. Specialized in Optimizing application performance while implementing security protocols. Experienced in using and leveraging Open Source Softwares.",
     "image": "profilepic.jpg",
     "bio": "Inspired to Learn, Determine to Teach",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -48,11 +48,18 @@
         "description": "Developed Location based Applications. Have got Hands on in Web GIS and UI Development."
       }
     ],
-    "work": [
+    "work": [{
+        "company": "Reliance Jio",
+        "title": "Assistant Manager - SDE",
+        "years": "March 2023 - Present",
+        "description": "Developed internal use products like Query Builder, Retail Network and O&M (Operations and Maintenance) applications using React JS, Node JS and ArcGIS. Responsible for developing from scratch a GIS Template with Server side rendering capabilities in Next JS Framework for future application usage. Tasked with enhancing code efficiency, improving performance, loading components dynamically, assessing application architecture, and ensuring the development of secure applications.  Proficient in Object Oriented Javascript, Data Structures and Algorithms. Solid understanding of the API services, AJAX and REST/SOAP frameworks. Worked with cross functional teams to develop and execute on-time and on-budget projects and initiatives.",
+        "description2":"Worked on improving Performance of the applications."
+        
+      },
       {
         "company": "Tata Consultancy Services",
-        "title": "UI Developer ",
-        "years": "July 2019 - Present",
+        "title": "System Engineer - Front End Developer",
+        "years": "July 2019 - March 2023",
         "description": "Responsible for developing the User Interface of Geospatial Analytics, Risk Management System for clients by enabling users to view the data on maps, dashboards, graphs, reports based on various inputs. Hands on experience on developing enterprise applications for about 100 real time concurrent users for Insurance and Utility projects. Coded Web Client UI using React JS, JavaScript, JQuery and Web Server/ Proxy Server using Java and Application Server using ExpressJS, NodeJS. Supervised team of 6 and Lead User Interface Development for 2 Use Cases. Participated in a complete technical development lifecycle - requirements analysis, planning, design, coding, testing, debugging, bug fixing. Proficient in Object Oriented Javascript, Data Structures and Algorithms. Solid understanding of the API services, AJAX and REST/SOAP frameworks. Experience with using REST APIs and GraphQL. Some key libraries used in the projects include - Bootstrap, D3.JS, Lodash, Leaflet, Google Maps, ArcGIS Enterprise, Material UI, ANTD, SASS/SCSS, Redux. Achieved in developing secure applications with no vulnerabilities by taking care of Cross Site scripting (XSS), SQL Injections, Validations, Cross-site request forgery (CSRF), Session Management. Processed deployments using GitHub, TortoiseHg, Azure Devops, AWS CodeCommit, Docker. Worked with Atlassian Tools like JIRA, Confluence. Practiced Waterfall and Agile methodologies- Scrum including story grooming, sprint planning, complexity analysis, stand-up calls, and sprint retrospectives. Well versed with documentation of User Guide, Low Level Design, Functional Design.",
         "description2":"Delivered code in time with zero issues in all Security Audits. Reduced work efforts of team by developing reusable components.        Received 5/5 First Anniversary Rating.        Facilitated meetings and presentation with Clients translating business       requirements to designs.       Have been a mentor of 20+ Knowledge Transfer sessions, Assisting in GIS and       Open Source Libraries.       Continual Improvement by working with extended teams and time      management."
         
@@ -69,7 +76,7 @@
       },
       {
         "name": "React JS",
-        "level": "80"
+        "level": "85"
       },
       {
         "name": "GIS",
